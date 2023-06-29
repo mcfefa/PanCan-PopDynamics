@@ -1,6 +1,8 @@
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DiffEqBase = "2b5f629d-d688-5b77-993f-72d75c75574e"
+DiffEqMonteCarlo = "78ddff82-25fc-5f2b-89aa-309469cbf16f"
 DiffEqParamEstim = "1130ab10-4a5a-5621-a13d-e4788d82bd4c"
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
